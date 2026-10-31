@@ -1,0 +1,18 @@
+# Python 自動產生的快取檔案
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虛擬環境 (Virtual Environments)
+venv/
+env/
+.venv/
+
+# 開發工具 (VS Code / PyCharm) 設定檔
+.vscode/
+.idea/
+
+# 作業系統產生的雜檔
+.DS_Store
+Thumbs.db
